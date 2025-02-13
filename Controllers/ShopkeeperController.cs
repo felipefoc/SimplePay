@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using SimplePay.DTOs;
 using SimplePay.Mappings;
-using SimplePay.Repository;
 using SimplePay.Service;
 
 namespace SimplePay.Controllers
